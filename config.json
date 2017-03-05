@@ -4,8 +4,8 @@
     "host": "localhost:3005"
   },
   "facebook": {
-    "key": "[APP_ID]",
-    "secret": "[APP_SECRET]",
+    "key": "258257897964555",
+    "secret": "00df68748ddb3bf974a6e1a1342f5ca3",
     "callback": "/handle_facebook_callback",
     "scope": [
       "user_groups",
