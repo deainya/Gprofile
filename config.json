@@ -1,7 +1,7 @@
 {
   "server": {
     "protocol": "http",
-    "host": "dummy.com:3000"
+    "host": "localhost:3005"
   },
   "facebook": {
     "key": "[APP_ID]",
